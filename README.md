@@ -1,4 +1,4 @@
-# Matrix (Rain Effect)
+# Matrix (Rain Effect) JS
 
 This project creates a Matrix rain effect using HTML, CSS, and JavaScript. The animation simulates the iconic falling green characters seen in the Matrix movie series.
 
@@ -13,9 +13,7 @@ This project creates a Matrix rain effect using HTML, CSS, and JavaScript. The a
 ## Demo
 
 
-
-![Matrix Rain Effect](demo.gif)
-
+![demo](https://github.com/user-attachments/assets/472f2247-8ff5-4c3a-8b4b-0fa34b819723)
 
 
 ## Features
