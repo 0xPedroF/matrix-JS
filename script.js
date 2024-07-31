@@ -10,6 +10,8 @@ c.width = window.innerWidth;
 var matrix = "ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖ ゙ ゚゛゜ゝゞゟ123456789@#$%^&*()*&^%+-/~{[|`]}";
 //Standard characters
 //var matrix = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@#$%^&*()*&^%+-/~{[|`]}";
+//Binary Characters
+//var matrix = "0 1"
 
 //converting the string into an array of single characters
 matrix = matrix.split("");
